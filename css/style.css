@@ -1,0 +1,35 @@
+*{
+   padding:0;
+   margin:0;
+   box-sizing:border-box;
+
+
+}
+#slide{
+	background-color:#dcdcdc;
+	margin-top:10px;
+	padding:20px;
+	
+}
+.col-lg-8 img{
+	border:5px solid #ffff;
+	border-radius:50%;
+	}
+.slide-row{
+	display:flex;
+	padding:10%;
+}
+.slide-para{
+	border-left:3px solid red;
+	padding-left:20px;
+}
+
+
+#card-1{
+	display:flex;
+	
+	background-color:#dcdcdc;
+	margin-top:30px;
+	margin-bottom:30px;
+	padding:30px;
+}
